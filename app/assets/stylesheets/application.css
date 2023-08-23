@@ -13,3 +13,16 @@
  *= require_tree .
  *= require_self
  */
+li {
+  list-style-type: none;
+  padding: 0!important;
+  height: 200px;
+}
+
+ul {
+  padding: 0;
+}
+
+#card {
+  height: 75%;
+}
